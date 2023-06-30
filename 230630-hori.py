@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+Horizontal bars chart
+"""
 
 import numpy as np
 from matplotlib import pyplot as plt
